@@ -1,7 +1,7 @@
 
 
 perfil_autor = {
-"nombre": "Ana Pérez",
+"nombre": "maria Pérez",
 "bio": "Desarrolladora Python y creadora de contenido.",
 "especialidad": "Django",
 "redes_sociales": ["@ana_dev", "@python_ana"]
